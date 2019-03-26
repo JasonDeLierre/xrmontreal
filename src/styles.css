@@ -2,6 +2,4 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
 
-body { margin: 0; 
-      font-family: 'FuturaMediumCTT Normal', arial;
-      }
+body { margin: 0; }
