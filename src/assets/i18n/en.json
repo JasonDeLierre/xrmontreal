@@ -1,7 +1,7 @@
 
 {
 
-"WHO": "Who We Are",
+"WHO": "Who Are We?",
 "DEMANDS": "Our Demands", 
 "DEMANDS_TITLE": "OUR DEMANDS", 
 "PRINCIPLES": "Our Principles",
@@ -27,13 +27,14 @@
 "PRINCIPLE_8_TEXT": "We live in a toxic system, but no one individual is to blame.",
 "PRINCIPLE_9_TEXT": "Using non-violent strategy and tactics as the most effective way to bring about change.",
 "PRINCIPLE_10_TEXT": "We collectively create the structures we need to challenge power. Anyone who follows these core principles and values can take action in the name of Extinction Rebellion.",
-"PRINCIPLE_REMARKS": "",
-"PRINCIPLE_REMARKS_TEXT": "",
-"PRINCIPLE_REMARKS_TEXT_2": "",
-"PRINCIPLE_REMARKS_TEXT_3": "",
-"PRINCIPLE_REMARKS_TEXT_4": "",
-"PRINCIPLE_REMARKS_TEXT_5": "",
-"PRINCIPLE_REMARKS_TEXT_6": "",
+"PRINCIPLE_REMARKS": "NOTES",
+"PRINCIPLE_REMARKS_TEXT_2": "We have deliberately spoken here of principles only and not of principles and values ​​as in the original text.The founding values ​​of Extinction Rebellion France are expressed in the Statutes of our association and are mainly: Compassion, Respect of Beings Human, Respect for the Earth and the Living, Authenticity, Inclusiveness, Mutual Respect, Equity, Determination, Autonomy, and Decentralization We believe that these values ​​are also representative of the original XR UK movement. " ,
+"PRINCIPLE_REMARKS_TEXT_3": "Additional information on Principle 2:",
+"PRINCIPLE_REMARKS_TEXT_4": "The notion of '3.5% of the population' is explained in Erica Chenoweth's Tedx: The success of nonviolent civil resistance Erica Chenoweth, Ph.D., is Professor of Public Policy at Harward Kennedy School and the Radcliffe Institute for Advanced Studies in the USA, who did not believe in the success of nonviolent actions, and then honestly studied more than 100 cases of violent and non-violent campaigns from 1900 to 2006. And she He was amazed by the results of his study, which proved to be the opposite of his beliefs: Not only were the non-violent campaigns twice as successful as the violent campaigns, but the more we progressed in time and more nonviolent campaigns are effective, she found that moving 3.5 percent of a state's population to a successful nonviolent revolution was enough, and often it was much less than that.",
+"PRINCIPLE_REMARKS_TEXT_5": "The expression of the original English text 'Momentum-driven organization' is borrowed from the book of Paul Engler and Mark Engler, This is an Uprising (New York: Nation Books, 2016), which is one of the references important for the founders of Extinction Rebellion. " ,
+"PRINCIPLE_REMARKS_TEXT_6": "The notion of 'swarms' mentioned in the French translation refers to the book Swarmwise - The Tactical Manual to Changing the World which is one of the inspiring books XR.Not to mention the many mentions to the swarming technique used by the members of XR UK in their actions. ",
+
+
 
 "DEMANDS_TITLE_2": "WE DEMAND",
 "DEMANDS_1": "That the Government must tell the truth about how deadly our situation is, it must reverse all policies not in alignment with that position and must work alongside the media to communicate the urgency for change including what individuals, communities and businesses need to do.", 
@@ -48,17 +49,39 @@
 "DETAILS_4": "These demands require a civil and solidarity mobilization of a scale and purpose comparable to those deployed in time of war.The governments that have succeeded each other in recent years, blinded by a logic of growth and short In the end, they have shown their inability to deal seriously with these issues, so we want the power to be delivered to citizens, and at the local and regional level, a more vigorous and inclusive democracy needs to be put in place. the creation of a sovereign citizens' assembly adapted to this change of society, which will guarantee equitable sharing of the effort to be made and solidarity with the most vulnerable people. ",
 
 "MEDIA_TO_USE": "MEDIA TO USE",
-"ORIGINS": "ORIGINS OF EXTINCTION REBELLION",
-"WHO_1": "creation of RisingUp !, of which Extinction Rebellion was a campaign.",
-"WHO_2": "public launch of Extinction Rebellion : organisation, workshops, meetings, etc. with much interest over several months of preparations",
-"WHO_3": "declaration of Extinction Rebellion at London Parliament Square: A thousand people participate (including the Swedish youth Greta Thunberg, a journalist from the BBC and a deputy from the English Ecological Party)",
-"WHO_4": "protest movement to action de blocage des cinq principaux ponts de Londres (plusieurs milliers de participants) ; c’est le « plus grand mouvement de désobéissance civile depuis des décennies » selon le Guardian (17/11/2018).",
 
-"WHO_1_DATE" : "2016, UK : ",
-"WHO_2_DATE" : "2018, UK : ",
-"WHO_3_DATE" : "31 October 2018 : ",
-"WHO_4_DATE" : "17 November 2018 : ",
-"WHO_5_DATE" : "November 2018 : ",
+"WE_ARE_XR": "WE ARE XR",
+
+"WHO_TITLE": "WHO ARE WE?",
+"WHO_0": "XR Quebec is a movement in which citizens come together to measure the imminent danger of extinction that the ecological crisis represents.For the sake of life, they commit themselves non-violent, immediate and determined for survival in a better world. ",
+
+"ORIGINS": "HISTORY OF XR",
+"ORIGINS_1": "Extinction Rebellion was created in the UK by a group called Rising Up !, founded in 2016 with the aim of empowering citizen groups committed to VDNAs for social change.",
+"ORIGINS_2": "In May 2018, Rising Up! Started giving the presentation 'Heading to extinction and what to do about it' and then organized training in civil disobedience, bringing together motivated people to participate in the Extinction Rebellion movement and the preparing to take part in non-violent civil disobedience From May 2018 to October 2018, they gave about 65 presentations to more than 1500 people, recruiting among them 300 volunteers to be arrested for the cause.",
+"ORIGINS_3": "On October 31, 2018, XR publicly made a Declaration of the Rebellion against the UK Government, in London on Parliament Square, where 1000 activists took part, and 15 people were arrested. ",
+"ORIGINS_4": "On November 17, 2018, 6000 rebels simultaneously block 5 bridges in London for several hours, blocking the center of London, 82 people were arrested during this massive action, this is the largest movement of civil disobedience since decades according to the Guardian (17/11/2018).",
+"ORIGINS_5": "In Montreal, it was Elza who first contacted the XR UK movement in November 2018 to coordinate efforts in a global way, and to found the Quebec chapter of the movement. A first information meeting for the general public took place in December 2018.",
+
+"WHO_1": "XRQC participates in the march 'The Planet invites itself to Parliament', Mtl",
+"WHO_2": "1st information session 'The Talk' in Montreal.",
+"WHO_3": "2nd information session 'The talk' and creation of sub-committees.",
+"WHO_4": "3rd information session in Montreal.",
+"WHO_5": "1st AG",
+"WHO_6": "4th information session 'The Talk'",
+"WHO_7": "Canadian Declaration of Rebellion (by XR Canada)",
+"WHO_8": "global student strike for climate - 1st public appearance of XR Quebec",
+"WHO_9": "International Week of Rebellion",
+
+"WHO_1_DATE" : "8 Décembre 2018 :",
+"WHO_2_DATE" : "15 Décembre 2018 : ",
+"WHO_3_DATE" : "12 Janvier 2019 : ",
+"WHO_4_DATE" : "30 Janvier 2019 : ",
+"WHO_5_DATE" : "3 Février 2019 : ",
+"WHO_6_DATE" : "9 Février : ",
+"WHO_7_DATE" : "10 au 17 Février : ",
+"WHO_8_DATE" : "15 mars : ",
+"WHO_9_DATE" : "15 au 21 avril : ",
+
 
 
 "WHO_WEEK" : "Extinction Rebellion is preparing « International Rebellion Week » from 15th-21st of April 2019.",
@@ -81,6 +104,10 @@
 "MAIN_2": "It's not too late to change course - a better future is possible. But governments are consistently failing to take the urgent and decisive action that will save us. If the system will not change, then we must change the system.",
 "MAIN_3": "IT IS OUR SACRED DUTY TO REBEL IN ORDER TO PROTECT OUR HOMES, OUR FUTURE AND THE FUTURE OF ALL LIFE ON EARTH.",
 "MAIN_4": "Social science shows us that peaceful civil disobedience is an effective way to bring about change. Our lives have meaning when we follow our conscience and are willing to make sacrifices to protect what we love.",
+
+"BLUE_1": "We are in an ecological disaster which includes a mass species extinction. Our death is possible, the destruction of millions and possibly trillions of people, the extinction is possible, the future is not safe.",
+"BLUE_2": "The change to avert the worst disaster is still technically and economically possible. It involves creating a world which is less frenetic and more beautiful; making the necessary changes will also create jobs. This is an emergency situation - action is urgent.",
+"BLUE_3": "Our government isn't acting in accordance with what science and history tell us (eg the rise of fascism). Therefore our government is criminally negligent. ",
 
 "JOIN_EMAIL" : "Join Email List",
 "FIND_LOCAL" : "Find Local Group",
